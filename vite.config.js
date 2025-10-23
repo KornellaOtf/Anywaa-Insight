@@ -5,3 +5,4 @@ export default defineConfig({
   base: '/Anywaa-Insight/',
   plugins: [react()],
 })
+
