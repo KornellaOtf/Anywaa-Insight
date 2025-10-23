@@ -7,7 +7,7 @@ const Gambella = () => {
       description:
         "Gambella, located in the western part of Ethiopia, is known for its lush landscapes, the Baro River, and the diverse communities that inhabit the region. It's a cultural bridge connecting the Anywaa, Nuer, Majang, and other ethnic groups who have lived here for generations.",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Baro_River_in_Gambela.jpg/1280px-Baro_River_in_Gambela.jpg",
+        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FEthiopialandoforigins%2Fposts%2Fgood-morning-worldimagine-arriving-at-this-oasis-a-tranquil-and-captivating-shot%2F2825589387726540%2F&psig=AOvVaw0J1yW8ugzmXdR4iHxqhN5T&ust=1761332474397000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLj-xPmAu5ADFQAAAAAdAAAAABAE",
     },
     {
       title: "Geography and Nature",
